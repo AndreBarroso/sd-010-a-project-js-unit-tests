@@ -38,7 +38,7 @@ git clone https://github.com/AndreBarroso/sd-010-a-project-js-unit-tests.git
 ```
 4. Entre acesse a pasta criada executando o comando a seguir:
 ```bash
-cd sd-010-a-project-js-unit-tests.git
+cd sd-010-a-project-js-unit-tests
 ```
 
 5. Instale as dependências do projeto executando:
