@@ -1,6 +1,6 @@
 # Boas vindas ao repositório do projeto JavaScript Testes Unitários!
 
-Nesse projeto, tive meu primeiro contato com os testes unitários, nele além de executar os testes em si, também pude aprender mais sobre a metodologia de desenvolvimento tdd.
+Nesse projeto, tive meu primeiro contato com os testes unitários. Nele, além de executar os testes em si, também pude aprender mais sobre a metodologia de desenvolvimento tdd.
 
 Curiosidade: me lembro que mesmo após aprovado no projeto, algo ainda me intrigava. "Por que escrever testes se já posso testar meus códigos com um simples console.log?" "Por que gastar energia com isso se já posso testar tudo alí na hora?"  Essa dúvida foi naturalmente sendo sanada, conforme meus projetos como desenvolvedor iam ficando cada ver maiores e mais complexos. Sabe aquele momento em que você cria uma nova funcionalidade para a sua aplicação e ela quebra em outros pontos?
 Como descobrir o local da falha? Um console.log pode até servir.
