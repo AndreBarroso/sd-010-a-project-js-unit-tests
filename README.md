@@ -6,7 +6,7 @@ Curiosidade: me lembro que mesmo após aprovado no projeto, algo ainda me intrig
 Como descobrir o local da falha? Um console.log pode até servir.
 Mas e se o seu código tiver centenas linhas? Aplicar console.log até encontrar o local? Inviável né?
 É aí que entram os testes. Caso estejam lá, eles vão mostrar diretamente o ponto de falha de sua aplicação.
-E caso você não veja naquele momento que surgiu alguma falha, eles estarão lá para te fazer essa acusação.
+E caso você não veja naquele momento que surgiu alguma falha, os testes estarão lá para te fazer essa acusação.
 
 ---
 
