@@ -39,7 +39,7 @@ cd projeto-andre
 ```bash
 git clone https://github.com/AndreBarroso/sd-010-a-project-js-unit-tests.git
 ```
-4. Entre acesse a pasta criada executando o comando a seguir:
+4. Acesse a pasta criada executando o comando a seguir:
 ```bash
 cd sd-010-a-project-js-unit-tests
 ```
