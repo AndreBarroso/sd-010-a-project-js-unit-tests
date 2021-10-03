@@ -2,9 +2,12 @@
 
 Nesse projeto, tive meu primeiro contato com os testes unitários. Nele, além de executar os testes em si, também pude aprender mais sobre a metodologia de desenvolvimento tdd.
 
-Curiosidade: me lembro que mesmo após aprovado no projeto, algo ainda me intrigava. "Por que escrever testes se já posso testar meus códigos com um simples console.log?" "Por que gastar energia com isso se já posso testar tudo alí na hora?"  Essa dúvida foi naturalmente sendo sanada, conforme meus projetos como desenvolvedor iam ficando cada ver maiores e mais complexos. Sabe aquele momento em que você cria uma nova funcionalidade para a sua aplicação e ela quebra em outros pontos?
+Curiosidade: me lembro que mesmo após aprovado no projeto, algo ainda me intrigava. "Por que escrever testes se já posso testar meus códigos com um simples console.log?" "Por que gastar energia com isso se já posso testar tudo alí na hora?"  
+
+Essa dúvida foi sendo sanada naturalmente conforme meus projetos iam ficando cada ver maiores e mais complexos. Sabe aquele momento em que você cria uma nova funcionalidade para a sua aplicação e ela quebra em outros pontos?
 Como descobrir o local da falha? Um console.log pode até servir.
 Mas e se o seu código tiver centenas linhas? Aplicar console.log até encontrar o local? Inviável né?
+
 É aí que entram os testes. Caso estejam lá, eles vão mostrar diretamente o ponto de falha de sua aplicação.
 E caso você não veja naquele momento que surgiu alguma falha, os testes estarão lá para te fazer essa acusação.
 
